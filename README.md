@@ -8,11 +8,13 @@ Select the method: I(mport), F(requency), A(verage), Min(imum), Max(imum), S(ubs
 
 Then select the column you want to process.
 
-Import: imports a .csv file and reads (assigns to an array) it.
+Import: Imports a .csv file and reads (assigns to an array) it.
 
-Minimum, Maximum: find the minimum, maximum value in the selected column.
+Minimum: Find the minimum value in the selected column.
 
-Average: take the average of the values in the column.
+Maximum: Find the maximum value in the selected column.
+
+Average: Take the average of the values in the column.
 
 Frequency: Find the count of values within the intervals, uses min and max by default.
 
